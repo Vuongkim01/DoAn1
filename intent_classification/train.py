@@ -9,9 +9,6 @@ Module nay thuc hien:
     5. Danh gia va so sanh hieu suat
     6. Ve confusion matrix
     7. Luu mo hinh tot nhat va vectorizer
-
-Tac gia: Sinh vien nam 3 - Nganh Toan-Tin
-Do an 1: Phan loai y dinh nguoi dung trong chatbot tu van may tinh
 """
 
 import os
